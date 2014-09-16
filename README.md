@@ -1,6 +1,6 @@
 # EMTypographer
 
-TODO: Write a gem description
+TODO: Allows you to format yout text using http://mdash.ru API.
 
 ## Installation
 
