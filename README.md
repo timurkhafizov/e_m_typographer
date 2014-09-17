@@ -1,6 +1,6 @@
 # EMTypographer
 
-TODO: Allows you to format yout text using http://mdash.ru API.
+Allows you to format yout text using http://mdash.ru API.
 
 ## Installation
 
@@ -20,7 +20,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+The basic usage is:
+
+```ruby
+EMTypographer.apply('supatext')
+
+# => "<p>supatext</p>"
+```
 
 ## Contributing
 
