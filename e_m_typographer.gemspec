@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "e_m_typographer"
-  spec.version       = "0.0.2"
+  spec.version       = "0.0.3"
   spec.authors       = ['Anton Kolmakov', 'Timur Khafizov']
   spec.description   = %q{Allows you to format your text using http://mdash.ru API.}
   spec.summary       = %q{Allows you to format your text using http://mdash.ru API.}
