@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.name          = "e_m_typographer"
   spec.version       = "0.0.2"
   spec.authors       = ['Anton Kolmakov', 'Timur Khafizov']
-  spec.description   = %q{Allows you to format yout text using http://mdash.ru API.}
-  spec.summary       = %q{Allows you to format yout text using http://mdash.ru API.}
+  spec.description   = %q{Allows you to format your text using http://mdash.ru API.}
+  spec.summary       = %q{Allows you to format your text using http://mdash.ru API.}
   spec.homepage      = "https://github.com/fishtag/e_m_typographer"
   spec.license       = "MIT"
 
