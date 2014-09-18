@@ -14,7 +14,7 @@ class EMTypographer
   private
 
   def self.send_typographer_post_request(text)
-    return if text.empty?
+    return unless text.is_a?(String) && text[0]
 
     request = Net::HTTP.new(TYPOGRAPHER_REQUEST_URI.host, TYPOGRAPHER_REQUEST_URI.port)
     request.post(TYPOGRAPHER_REQUEST_URI.path, "text=#{text}")
