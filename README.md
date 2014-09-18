@@ -4,6 +4,7 @@ Allows you to format yout text using http://mdash.ru API.
 
 [![Code Climate](https://codeclimate.com/github/fishtag/e_m_typographer/badges/gpa.svg)](https://codeclimate.com/github/fishtag/e_m_typographer)
 [![Codeship Status for fishtag/e_m_typographer](https://codeship.io/projects/66f2f9e0-212d-0132-5e9b-6a94943ef49b/status?branch=master)](https://codeship.io/projects/36179)
+[![Gem Version](https://badge.fury.io/rb/e_m_typographer@2x.png)](http://badge.fury.io/rb/e_m_typographer)
 
 ## Installation
 
