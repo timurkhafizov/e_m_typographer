@@ -1,3 +1,4 @@
+require 'spec_helper'
 require 'e_m_typographer'
 
 describe EMTypographer do
